@@ -60,4 +60,6 @@ gem 'slim-rails'
 gem 'spree', github: 'spree/spree', branch: '2-1-stable'
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-1-stable'
 gem 'spree_i18n', github: 'spree/spree_i18n', branch: '2-1-stable'
+
 gem 'spree_minicart', github: 'sbounmy/spree_minicart', branch: 'master'
+gem 'spree_admin_bar', github: 'stefansenk/spree_admin_bar', branch: '2-1-stable'
