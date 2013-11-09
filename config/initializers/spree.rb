@@ -11,6 +11,7 @@ Spree.config do |config|
   # config.site_name = "Spree Demo Site"
   config.allow_ssl_in_staging = false
   config.allow_ssl_in_production = false
+ # hide_currency_symbol
 end
 
 Spree.user_class = "Spree::User"

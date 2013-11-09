@@ -10,4 +10,5 @@
  *= require_tree .
  *= require store/spree_minicart
  *= require store/spree_admin_bar
+ *= require store/spree_wishlist
 */

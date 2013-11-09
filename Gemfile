@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.0'
+gem 'rails', '4.0.1'
 
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3'
@@ -61,5 +61,8 @@ gem 'spree', github: 'spree/spree', branch: '2-1-stable'
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-1-stable'
 gem 'spree_i18n', github: 'spree/spree_i18n', branch: '2-1-stable'
 
-gem 'spree_minicart', github: 'sbounmy/spree_minicart', branch: 'master'
+gem 'spree_minicart', github: 'asides/spree_minicart', branch: 'master'
 gem 'spree_admin_bar', github: 'stefansenk/spree_admin_bar', branch: '2-1-stable'
+gem 'spree_wishlist', :git => 'git://github.com/asides/spree_wishlist.git', branch: '2-1-stable'
+#gem 'spree_email_to_friend', :git => 'git://github.com/spree/spree_email_to_friend.git', branch: '2-1-stable'
+
