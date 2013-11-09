@@ -66,3 +66,4 @@ gem 'spree_admin_bar', github: 'stefansenk/spree_admin_bar', branch: '2-1-stable
 gem 'spree_wishlist', :git => 'git://github.com/asides/spree_wishlist.git', branch: '2-1-stable'
 #gem 'spree_email_to_friend', :git => 'git://github.com/spree/spree_email_to_friend.git', branch: '2-1-stable'
 
+gem 'spree_editor', :github => 'spree/spree_editor'

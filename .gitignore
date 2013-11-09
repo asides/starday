@@ -31,6 +31,7 @@ coverage
 # Public Uploads
 public/system/*
 public/themes/*
+public/spree/*
 
 # Public Cache
 public/javascripts/cache
@@ -58,6 +59,7 @@ nbproject
 
 # Eclipse
 .project
+
 
 # Redcar
 .redcar
@@ -112,5 +114,4 @@ pickle-email-*.html
 .project
 /config/database.yml
 /config/deploy.rb
-/public/spree/*
 /config/puma.rb
