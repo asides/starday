@@ -67,3 +67,4 @@ gem 'spree_wishlist', :git => 'git://github.com/asides/spree_wishlist.git', bran
 #gem 'spree_email_to_friend', :git => 'git://github.com/spree/spree_email_to_friend.git', branch: '2-1-stable'
 
 gem 'spree_editor', :github => 'spree/spree_editor'
+gem 'tinymce-rails-langs'
